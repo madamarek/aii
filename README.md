@@ -304,6 +304,7 @@ Lab4d.py
 3
 ```
 Lab44.py
+```
 def generate_triangles():
     n = 0
     total = 0
